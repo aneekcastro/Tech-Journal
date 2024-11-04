@@ -1,18 +1,19 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(251, 177, 250);
 }
 
 header {
-  background: #333;
-  color: #fff;
+  background: #be0d0d;
+  color: rgb(243, 230, 235);
   padding: 10 px 0;
 }
 
 nav {
   text-align: center;
-  color: #fff;
+  color: #d81414;
   padding: 15 px;
 }
 
